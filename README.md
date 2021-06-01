@@ -10,7 +10,7 @@
 I am an Electronics Engineer by Education, Software developer by Passion and Teacher by instinct. I work on Firmware and Hardware as well as integration with software. <br /> I love to use technology to solve problems and help everyone and learn from everyone I meet. 
 
 ##### Tech Stack
-![Hardware](https://img.shields.io/badge/-PHP-071a2c?style=flat-square)
+![Hardware](https://img.shields.io/badge/-Hardware-071a2c?style=flat-square)
 ![C++](https://img.shields.io/badge/-C++-071a2c?style=flat-square&logo=c&logoColor=ffffff)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-071a2c?style=flat-square&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-071a2c?style=flat-square&logo=python)
