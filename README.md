@@ -11,7 +11,7 @@ I am an Electronics Engineer by Education, Software developer by Passion and Tea
 
 ##### Tech Stack
 ![Hardware](https://img.shields.io/badge/-PHP-071a2c?style=flat-square)
-![C++](http://img.shields.io/badge/-NGINX-071a2c?style=flat-square&logo=c++&logoColor=ffffff)
+![C++](https://img.shields.io/badge/-C++-071a2c?style=flat-square&logo=c&logoColor=ffffff)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-071a2c?style=flat-square&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-071a2c?style=flat-square&logo=python)
 ![SQL](https://img.shields.io/badge/-SQL-071a2c?style=flat-square&logo=sql)
