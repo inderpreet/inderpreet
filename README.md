@@ -1,5 +1,4 @@
-### 
-<h1 align="center"> Hi there 👋💻. I am Inderpreet. </h1>
+# Inderpreet Singh
 
 <p align="center">
     <a href="https://www.linkedin.com/in/inderpreets/" target="_blank"><img src="https://img.shields.io/badge/-Inderpreet-0072b1?style=flat-square&logo=Linkedin&logoColor=white"/></a>
@@ -8,29 +7,28 @@
   
   
 I am an Electronics Engineer by Education, Software developer by Passion and Teacher by instinct. I work on Firmware and Hardware as well as integration with software. <br /> I love to use technology to solve problems and help everyone and learn from everyone I meet. 
+    
+---
 
-##### Tech Stack
-![Hardware](https://img.shields.io/badge/-Hardware-071a2c?style=flat-square)
-![C++](https://img.shields.io/badge/-C++-071a2c?style=flat-square&logo=c&logoColor=ffffff)
-![JavaScript](https://img.shields.io/badge/-JavaScript-071a2c?style=flat-square&logo=javascript)
-![Python](https://img.shields.io/badge/-Python-071a2c?style=flat-square&logo=python)
-![SQL](https://img.shields.io/badge/-SQL-071a2c?style=flat-square&logo=sql)
-![Docker](https://img.shields.io/badge/-Docker-071a2c?style=flat-square&logo=docker)
-![NodeJS](https://img.shields.io/badge/-NodeJS-071a2c?style=flat-square&logo=Node.js)
+### 🧰 Languages and Tools
+    
+<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg"/>
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
+<br />
 
-#### Database
-![MySQL](https://img.shields.io/badge/-MySQL-071a2c?style=flat-square&logo=mysql)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-071a2c?style=flat-square&logo=postgresql)
-![MongoDB](https://img.shields.io/badge/-MongoDB-071a2c?style=flat-square&logo=mongodb)
-
-#### Others
-![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
-![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
-![Linux](https://img.shields.io/badge/-Linux-222222?style=flat-square&logo=linux&logoColor=FCC624)
-![Debian](http://img.shields.io/badge/-Debian-A81D33?style=flat-square&logo=debian&logoColor=ffffff)
-![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
   
   <!--
 **inderpreet/inderpreet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
