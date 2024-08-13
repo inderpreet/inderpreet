@@ -56,10 +56,12 @@ cd FOLDERNAME
 git submodule init
 git submodule update
 ```
-use the following to update the entire project
+
+Now, when the submodule needs to be updated, the simple way of doing that is by running the following in the project.
 
 ```bash
 git pull --recurse-submodule
+git submodule update --remote NAME-OF-PROJECT-OR-FOLDER-NAME
 ```
 
 
