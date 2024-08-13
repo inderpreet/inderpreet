@@ -44,7 +44,23 @@ git commit -m"Update branch from development"
 
 Then push the branch to the repo. At this point, if you are using GitHub, create a pull request to merge origin/development from origin/new-task-branch-that-you-created.
 
+## Git SubModules
 
+Every now and then, I will create a library of code that is intended to be reused within two or mode projects. For this we use sub-modules. You will be able to see submodules with a hash as well as a .gitsubmodule folder.
+
+To work with repos with the sub-modules, do the following to clone
+
+```bash
+git clone URL-HERE
+cd FOLDERNAME
+git submodule init
+git submodule update
+```
+use the following to update the entire project
+
+```bash
+git pull --recurse-submodule
+```
 
 
 
