@@ -48,25 +48,89 @@ Then push the branch to the repo. At this point, if you are using GitHub, create
 
 Every now and then, I will create a library of code that is intended to be reused within two or mode projects. For this we use sub-modules. You will be able to see submodules with a hash as well as a .gitsubmodule folder.
 
-To work with repos with the sub-modules, do the following to clone
+### Adding a sub-module
 
+A submodule is added simply by 
 ```bash
-git clone URL-HERE
-cd FOLDERNAME
-git submodule init
-git submodule update
+git submodule add URL-OF-GIT-REPO
+git status
+git add -A
+git commit -m"Add sub-module XYZ"
 ```
 
-Now, when the submodule needs to be updated, the simple way of doing that is by running the following in the project.
+### Cloning a project with sub-modules
+
+Do the following to clone a project and then pull the sub-modules
+```bash
+# Clone the base repo
+git clone URL-HERE
+
+# Enter the project itself
+cd FOLDERNAME
+
+# Pull the sub-modules
+git submodule init
+git submodule update
+
+# or replace the above two commands with one
+git submodule update --init --recursive
+```
+
+Alternatively, run
+```bash
+# Replace all above commands with this.
+git clone --recurse-submodules URL-OF-REPO
+```
+
+### Getting updates from the submodule
+
+When the sub-project is updated, you need to get the updates rolled in. To do this, run the following.
+
+Go to the sub-module folder and then run
+```bash
+git checkout development
+git merge origin/development
+```
+
+Or 
 
 ```bash
-git pull --recurse-submodule
+git submodule update --remote
+```
 
-# Pull the changes and the new hash
-git submodule update --remote NAME-OF-PROJECT-OR-FOLDER-NAME
-git commit -am "Pull submodule update"
+Now you need to update the container project by commiting the new sub-module code to it.
+
+```bash
+git diff --submodule
+git commit -am"Update Sub-module from Remote"
 git push origin --all
 ```
 
+### Working on the submodule itself
+
+When working on projects, we will be usually working on the sub-mmodule code itself and this is what is usually done where the sub-module is the code that needs to be updated.
+
+```bash
+cd sub-module-folder
+git checkout development
+git pull
+```
+
+Make changes and then create commits by running git add and then git commit
+
+This is now ready to be updated to the repo
+```bash
+git submodule update --remote --merge
+# or
+# git submodule update --remote --rebase
+
+# update container
+git commit -am"Update submodule"
+git push --recurse-submodules=check
+
+# or
+# git push --recurse-submodules=on-demand
+# this will push the submodule before the container
+```
 
 
