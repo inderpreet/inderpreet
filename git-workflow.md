@@ -61,7 +61,11 @@ Now, when the submodule needs to be updated, the simple way of doing that is by 
 
 ```bash
 git pull --recurse-submodule
+
+# Pull the changes and the new hash
 git submodule update --remote NAME-OF-PROJECT-OR-FOLDER-NAME
+git commit -am "Pull submodule update"
+git push origin --all
 ```
 
 
