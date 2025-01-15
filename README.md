@@ -7,6 +7,8 @@
   
   
 I am an Electronics Engineer by Education, Software developer by Passion and Teacher by instinct. I work on Firmware and Hardware as well as integration with software. <br /> I love to use technology to solve problems and help everyone and learn from everyone I meet. 
+
+Also on github as bodgewires and ip-v1
     
 ---
 
